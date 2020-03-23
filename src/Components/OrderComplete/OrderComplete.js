@@ -19,7 +19,7 @@ const OrderComplete = (props) => {
                             </div>
                             <div>
                                 <h5>Shop Address</h5>
-                                <p>Star Kabab and Restaura</p>
+                                <p>Gulshan Plaza Restaura</p>
                             </div>
                         </div>
                         <h1>09:00</h1>
